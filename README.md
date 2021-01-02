@@ -7,8 +7,9 @@
                    |___/                                                                   |___/
         
 
-[ 1 ]
+[ 2 ]
 
 | LINK |
 |------|
 |[Learnt a new stuff](https://github.com/ravish0007/yet_another_repo/tree/main/notes/notes-01-jan-2021.md#1---learnt-a-new-stuff) |
+|[Learnt another stuff](https://github.com/ravish0007/yet_another_repo/tree/main/notes/notes-01-jan-2021.md#2---learnt-another-stuff) |
